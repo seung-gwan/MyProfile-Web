@@ -7,3 +7,5 @@
 22235412 유승관 입니다.
 취미는 게임입니다. (hobby 수정) (수정 2)
 https://github.com/seung-gwan
+취미는 게임입니다. (수정1) (수정2)
+https://github.com/seung-gwan (연락처 추가) ( 수정 1)
